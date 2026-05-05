@@ -1,4 +1,7 @@
 # IT-SECURITY
+
+Find the (directory)  where the owner is not the root and put it into the file:
+-find (directory) -not -user root > (file)
 Write the full absolute path:
 - find /root/......../ > (to the file to want to named to)
 
