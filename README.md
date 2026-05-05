@@ -6,7 +6,7 @@ Write the full absolute path:
 - find /root/......../ > (to the file to want to named to)
 
 Create a new user and lock password with name user86315:
-- useradd 86315
+- useradd user86315
 - passwd -l user86315
 
 Assign each public key of each person and check for verification:
